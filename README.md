@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi!
+I'm Liantsoa, and I am a high energy physics student.
+My long term goal is to do research in Quantum Gravity/Quantum Information.
+I'm currently learning QFT, General Relativity, Particle Physics and Mathematics (mostly Fiber Bundles, Group Theory)
+I'm also interested in learning more about Information theory/ Machine Learning and Statistical Mechanics/Complex Systems
+
+Here are some quotes that I like  😄:
+>"Everything should be made as simple as possible, but not simpler" A.Einstein
+>"Our purpose in theoretical physics is not to describe the world as we find it, but to
+ explain– in terms of a few fundamental principles– why the world is the way it is." Steven Weinberg
+
 
 <!--
 **FanevaLiantsoa/FanevaLiantsoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
