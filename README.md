@@ -1,4 +1,4 @@
-## Hi!
+## Hi😄!
 I'm Liantsoa, and I am a high energy physics student.  
 My long term goal is to do research in Quantum Gravity/Quantum Information.  
 I'm currently learning QFT, General Relativity, Particle Physics and Mathematics (mostly Fiber Bundles, Group Theory)  
